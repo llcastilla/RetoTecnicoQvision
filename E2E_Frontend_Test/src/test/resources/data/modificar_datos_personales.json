@@ -1,0 +1,12 @@
+{
+  "usuario": {
+    "cedula": "1020304050",
+    "nombres": "Leonardo prueba",
+    "apellidos": "Castilla castilla",
+    "correoElectronico": "leonardo.castilla@yopmail.com",
+    "contrasena": "ClaveSegura123*",
+    "confirmarContrasena": "ClaveSegura123*",
+    "telefono": "3045766592",
+    "genero": "Masculino"
+  }
+}
